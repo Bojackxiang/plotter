@@ -1,0 +1,1 @@
+E <CX Coordinate> <CY Coordinate> <RX Horizontal radius> <RY Vertical  radius>  - Should draw a ellipse
