@@ -1,29 +1,11 @@
-# plotter
+commends: 
 
-## Project setup
-```
-yarn install
-```
+p 200,10, 250,190, 160,210
+c 20 100 20 
+r 100 50 25 25 
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+the additional commend is for the eclipse 
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+e 80 80 20 40 
 
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+they are (x position, y position, horizontal radius, vertical radius )
